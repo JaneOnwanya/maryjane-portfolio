@@ -17,7 +17,7 @@ function AboutCard() {
               <br />I graduated from Burapha University, with  
               <span className="purple"> Information Technology.</span>
               <br />Currently I'm working on Junior Software Engineer, With
-              <span className="purple"> 1 year experience</span>
+              <span className="purple"> 1 years 7 months experience</span>
               <br />
               <br />
               Apart from coding, some other activities that I love to do!
